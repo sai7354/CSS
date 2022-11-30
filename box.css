@@ -1,0 +1,79 @@
+.box{
+    width:100px;
+    height: 100px;
+    border:2px solid black;
+    margin:5px 0px;
+}
+
+
+
+.color1{
+    background-color: blue;
+    margin-right: auto;
+}
+.color2{
+    background-color: green;
+    margin-right: auto;
+}
+.color3{
+    background-color: yellow;
+    margin-right: auto;
+}
+.color4{
+    background-color: rgb(162, 255, 0);
+    margin-right: auto;
+}
+.color5{
+    background-color: rgb(255, 0, 0);
+    margin-right: auto;
+}
+.color6{
+    background-color: rgb(191, 32, 180);
+    margin: auto;
+    margin-top: 5px ;
+}
+.color7{
+    background-color: rgb(107, 35, 15);
+    margin: auto;
+    margin-top: 5px 
+
+}
+.color8{
+    background-color: rgba(225, 255, 0, 0.361);
+    margin: auto;
+    margin-top: 5px 
+}
+.color9{
+    background-color: brown;
+    margin: auto;
+    margin-top: 5px 
+}
+.color10{
+    background-color: violet;
+    margin: auto;
+    margin-top: 5px 
+
+}
+.color11{
+    background-color: palegreen;
+    margin-left: auto;
+}
+.color12{
+    background-color: black;
+    margin-left: auto;
+}
+.color13{
+    background-color: burlywood;
+    margin-left: auto; 
+}
+.color14{
+    background-color: teal;
+    margin-left: auto;
+
+} 
+.color15{
+    background-color:rosybrown;
+    margin-left: auto;
+}
+
+
